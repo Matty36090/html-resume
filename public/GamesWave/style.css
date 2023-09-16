@@ -1,0 +1,96 @@
+body { 
+    background-image: 
+    url("images/back.webp");
+    
+}
+
+#h1 {
+    text-align: center;
+    font-size: 20pt;
+    letter-spacing: 4px;
+    font-family:fantasy;
+    color: gold;
+    
+
+}
+
+a:link, a:visited {
+    background-color: purple;
+    color:gold;
+    height: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: fantasy;
+    
+    
+    
+}
+
+a:hover, a:active{
+    background-color: greenyellow;
+}
+
+#search {
+    float:right;
+   
+}
+
+#h2{
+    text-align: left;
+    font-size: 20pt;
+    letter-spacing: 4px;
+    font-family:fantasy;
+    color: gold;
+
+}
+
+
+#image1{
+    width: 15%;
+    height: auto;
+    position: relative;
+    left: 0%;
+    width: 13%;
+    
+
+}
+
+#image2{
+    width: 13%;
+    height: auto;
+    position: absolute;
+    right: 0%;
+    
+    
+
+}
+#vid{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+#text{
+    width: 1300px;
+    margin-left: auto;
+    margin-right: auto;
+    color:gold;
+    overflow: hidden; /* The CSS overflow property controls what happens to content that is too big to fit into an area.*/
+    text-align: justify ; /*The text-justify property specifies the justification method of text when text-align is set to "justify".*/
+    font-family: Arial, Helvetica, sans-serif;
+    border: 3px solid gold;
+    position: relative;
+}
+
+#images3{
+    text-align: center;
+}
+
+#image3{
+    float: right;
+    width: 540px;
+    
+    
+    
+}

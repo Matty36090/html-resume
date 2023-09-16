@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <title>Stephen King Books</title>
+	
+</head>
+
+<body>
+
+    <h1>Welcome</h1>
+	
+	<h2>Great Stephen King Novels</h2>
+	
+	<img src="images/pet sematary.jpg" alt=" An image of the front cover of Pet Sematary" width="150" height="200">
+	
+	
+	<p>Some of the greatest Stephen king novels are arguably the ones from his earliest days. Satring with Carrie in 1974 moving up to 1986 with It. Some notable works in this era of Mr Kings career include:</p>
+    <li>Salem's lot(1975) The shining(1977) The Stand (1978) Cujo(1981) Pet Sematary(1983)</li>
+    <p>As you can see from the list his early works include some of his best, and not only Stephen King's best but in my humble opinion, some of the best books ever written. That does not mean we should disregard his later works, a great place to start would be his latest novel which released this month Fairy Tale.<br>Click here to see an alternate cover for<a href=index2.html>Fairy Tale</a></p>
+
+    <img src="images/fairy tale.jpg" alt=" An image of the front cover of fairy tale" width="150" height="200">
+	
+    <footer>
+	<p>Author: Matt Eamonson <br>
+	</p>
+	</footer>
+
+</body>
+
+</html>

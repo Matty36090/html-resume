@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <title>Stephen King Books</title>
+	
+</head>
+  
+  <body>
+
+    <h1>Info</h1>
+	
+	<p>Click on the king to go back to the homepage</p>
+	
+     <a href=index.html>
+    <img src="images/stephen king.jpg" alt=" An image of the Stephen King" width="200" height="200">
+	</a>
+	
+	<h2>Fairy Tale</h2>
+	
+	<p>Fairy Tale is available now from all good book stores, and is a recommended must read for any king fan. It also has a cool alternate cover pictured below.</p>
+	
+	<img src="images/fairy tale 2.jpg" alt=" An image of the alternative front cover of Fairy Tale" width="300" height="300">
+	
+	<h2>Pet Sematary</h2>
+	
+	<p>Pet Sematary is one of my favorite King Books, See Below for a cool alternate cover.</p>
+	
+	<img src="images/pet sematary 2.jpg" alt=" An image of Pet Sematary alternate Cover" width="200" height="200">
+	
+	<a href= index3.html>
+	<p>Click here for more tags</p>
+    </a>	
+	
+	<footer>
+	<p>Author: Matt Eamonson <br>
+	</p>
+	</footer>
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+</body>
+
+</html>

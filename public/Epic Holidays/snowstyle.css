@@ -1,0 +1,140 @@
+body {  /*This sheet was used to style the skiing page due to it having a different colour background*/
+
+    width: auto;
+    height: auto;
+    background-image: linear-gradient(#0693e3, 1%, pink 60%, snow 120%);
+
+
+}
+
+@font-face {
+    font-family: fabada;
+    src: url(Fabada-regular.ttf);
+}
+
+#head {
+
+    font-family: fabada, Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: blueviolet;
+    background-color: yellow;
+    border-radius: 50%;
+
+
+}
+
+#nav {
+    text-align: center;
+
+}
+
+
+
+a:link,
+a:visited {
+    background-color: yellow;
+    color: blueviolet;
+    font-family: fabada, Arial, Helvetica, sans-serif;
+
+}
+
+a:hover,
+a:active {
+    background-color: orangered;
+}
+
+
+
+
+#search {
+    /* used for the search bar*/
+    float: right;
+
+}
+
+
+
+* {
+    /*used to get the images centre placement*/
+    box-sizing: border-box;
+}
+
+.column {
+    /*used to get the images centre placement*/
+    float: left;
+
+    width: 33.33%;
+    padding: 4%;
+
+}
+
+.row::after {
+    /*used to get the images centre placement*/
+    content: "";
+    display: table;
+    clear: both;
+}
+
+p {
+    color: royalblue;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+ul {
+    color: royalblue;
+
+
+
+}
+
+#vid {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+#city {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+
+#li {
+    list-style: inside;
+
+    text-align: center;
+
+
+}
+
+ul.myUL {
+    display: inline-block;
+    text-align: left;
+}
+
+#snowvid {
+    text-align: center;
+}
+
+#botnav {
+    float: right
+}
+
+h3 {
+    color: whitesmoke;
+    background-color: darkblue;
+    text-align: center;
+    width: 20%;
+    align-self: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+span {
+    color: #fcb900;
+}

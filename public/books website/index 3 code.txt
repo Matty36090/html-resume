@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<!-- this is how to place comments in html-->
+    <title>Additional Tags</title>
+	
+</head>
+  
+  <body>
+
+    <h1></h1>
+	
+	<footer>
+	<p>Author: Matt Eamonson <br>
+	</p>
+	</footer>
+	
+
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+</body>
+
+</html>

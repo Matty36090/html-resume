@@ -1,0 +1,37 @@
+body{
+    background-image:url("images/house.webp");
+    font-family: Arial, Helvetica, sans-serif;
+}
+    
+
+p {
+    color:red}
+
+ul{
+    color: red}
+h1 {
+    color:red;
+    text-align: center;
+    font-size: 3em;
+    border: 3px dotted red
+    
+}
+
+h2{
+
+    color:red
+
+
+}
+
+a {
+    background-color: rgb(43, 38, 38);
+    color: red}
+hr{
+    border: 1px solid red;
+}
+footer{
+    font-style: italic;
+    text-align: center;
+}
+
