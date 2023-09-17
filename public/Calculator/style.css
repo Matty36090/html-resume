@@ -1,12 +1,12 @@
 *, *::before, *::after {
      box-sizing: border-box;
-     font-family: 'Franklin Gothic Medium', Arial;
+     font-family: 'Exo 2', sans-serif;
      font-weight: normal;
 }
 
 h1{
     text-align: center;
-    font-family: fantasy, sans-serif;
+    font-family: 'Exo 2', sans-serif;
     color: greenyellow;
 }
 body {
